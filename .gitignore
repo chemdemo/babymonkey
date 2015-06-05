@@ -1,0 +1,4 @@
+/node_modules
+.DS_Store
+npm-debug.log
+/gui/lib/ext-5.1.0/packages
